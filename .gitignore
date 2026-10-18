@@ -1,0 +1,11 @@
+.env
+data/
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+dbt_project/target/
+dbt_project/logs/
+*.duckdb
+*.duckdb.wal
+*.sqlite
